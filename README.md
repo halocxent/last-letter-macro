@@ -8,6 +8,6 @@ git clone https://github.com/halocxent/last-letter-macro.git && cd last-letter-m
 
 ```bash
 pip install pydirectinput pygetwindow
-``
+```
 
 Run: `python3 macro.py`
